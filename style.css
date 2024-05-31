@@ -1,0 +1,23 @@
+.navbar-section{
+    height: 20px;
+    width: 100%;
+    
+    display: flex;
+}
+.logo{
+    font-size: 30;
+    color: orangered;
+    width: 20px;
+    height: 40px;
+    
+}
+.nav-list{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    height: 20px;
+}
+.example-button{
+    width: 10px 15px;
+    background-color: orangered;
+}
